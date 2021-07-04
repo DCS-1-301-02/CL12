@@ -1,5 +1,5 @@
 // Computer Literacy (2021)
-//     No.1205
+//     No.1206
 public class Ex1206 {
   public static void main(String[] args) {
     double x = 0;
